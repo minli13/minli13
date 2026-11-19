@@ -1,4 +1,4 @@
-# 💫 Hi there!:
+# 💫 Hi there!
 👋 I'm a Computer Science student who enjoys building creative and practical applications. I'm passionate about software development, exploring new technologies, and continuously improving my programming skills.<br><br>🌱 Currently learning more about **AI, machine learning, and full-stack development**.<br><br>💻 I love turning ideas into projects and learning something new along the way!
 
 
